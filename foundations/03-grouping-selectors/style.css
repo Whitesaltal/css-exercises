@@ -1,0 +1,13 @@
+.button{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    border-color: lightgray;
+    font-size: 28px;
+}
+#cm{
+    background-color: black;
+    color: white;
+}
+#ncm{
+    background-color: yellow;
+    color: blue;
+}
